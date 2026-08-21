@@ -1,7 +1,7 @@
 # Lern-Periode 5 / 6 / 7 / 8
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Aurel Sekinger
+- Zeitraum: 8/11/2026 -9/22/2026
 
 ## Grob-Planung
 
@@ -15,26 +15,26 @@
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+> Ila Moodle beenden.
 
 ## Tagesplanungen
 
 ### Planung 16.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Ila Moodle 1. teil beenden
+- [ ] Ila Moodle 2. Teil beginnen
+- [X] Ila Moodle 2. teil fertigstellen
 
 (Heute habe ich... (50-100 Wörter))
 
 
-### Planung 23.08.2024
+### Planung 28.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Game desine Kurs beitreten
+- [ ] Eine anwendbare game mecanik erstellen
+- [X] 3 neue commands lernen und anwenden können.
 
 (Heute habe ich... (50-100 Wörter))
 
