@@ -19,7 +19,7 @@
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Ila Moodle 1. teil beenden
