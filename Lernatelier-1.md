@@ -6,13 +6,12 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-
+> Keine
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+> Erste lernperiode.
 
 ### Projekte / neue Technologien
-> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+> Game Desine mit Godot
 
 ### Generelle Ziele
 > Ila Moodle beenden.
@@ -26,7 +25,8 @@
 - [ ] Ila Moodle 2. Teil beginnen
 - [X] Ila Moodle 2. teil fertigstellen
 
-(Heute habe ich... (50-100 Wörter))
+(In diese lernperiode habe ich mich mit den Moodel der ila befast
+indem ich sie durchgearbeitet habe und später habe ich begonnen ein eigenes spiel mit godot engine zu programnieren und mich mit der godot eigenen sprache zu befassen.)
 
 
 ### Planung 28.08.2024
