@@ -1,7 +1,7 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 1
 
 - Name: Aurel Sekinger
-- Zeitraum: 8/11/2026 -9/22/2026
+- Zeitraum: 8/14/2026 - 9/25/2026
 
 ## Grob-Planung
 
