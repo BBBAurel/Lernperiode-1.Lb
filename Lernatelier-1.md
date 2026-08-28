@@ -34,7 +34,16 @@ indem ich sie durchgearbeitet habe und später habe ich begonnen ein eigenes spi
 
 - [ ] Game desine Kurs beitreten
 - [ ] Eine anwendbare game mecanik erstellen
-- [X] 3 neue commands lernen und anwenden können.
+- [X] 3 neue lines lernen und anwenden können.
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 4.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] zwei weitere lines lernen und anwenden können
+- [ ] 3 kapitel in gd script lern abschliesesn 
+- [ ] Informatik tema programieren aufholen
 
 (Heute habe ich... (50-100 Wörter))
 
