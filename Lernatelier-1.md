@@ -49,7 +49,37 @@ Jedoch denke ich das ich mich heute nicht sehr gut kontzentrieren konte weil ich
 - [ ] 3 kapitel in gd script lern abschliesesn 
 - [ ] Informatik tema programieren aufholen
 
+(Heute war ich Krank)
+
+### Planung 11.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] 
+(Heute war ich krank)
+
+### Planung 18.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] 
+(Heute war ich Krank)
+
+### Planung 25.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] In Modul 431 arbeiten.
+- [ ] Drei Misionen erledigen.
+
 (Heute habe ich... (50-100 Wörter))
+
+### Planung ?.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] zwei weitere lines lernen und anwenden können.
+- [ ] 3 kapitel in gd script lernen und abschliesesn.
+- [ ] Teile der ferpassten lektionen von Invormatik aufholen.
+
+(Heute habe ich... (50-100 Wörter))
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
