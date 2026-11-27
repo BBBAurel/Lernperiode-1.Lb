@@ -82,7 +82,8 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+...Ich habe heute fiel gearbeitet und das modul 319 fast fertiggestelt.
+Dazu habe ich ein spritesheat für hurtanimationen zu einem tank anemy und einem normalen gegner erstelt.
 
 
 <!--
