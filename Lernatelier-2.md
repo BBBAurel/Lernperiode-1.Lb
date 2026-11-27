@@ -19,24 +19,18 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 -->
 
 - Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Zeitraum: 27.11.2026 bis 18.12.2026
 
 ## Grob-Planung
 
 ### Noten
-<!--
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
-in welchen sind die ungenügend? Welche davon sind besonders wichtig?
--->
 
-...Ihr Text...
+...Nicht fiele noten Noch nicht fiele teste geschrieben
 
 ### Veränderungen
-<!--
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
--->
 
-...Ihr Text...
+
+... Mehr teilname
 
 ### Projekte / neue Technologien
 <!--
@@ -45,7 +39,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+...Ich würde gerne Gd scrip lernen und wie man Godot ferwendet um basic spiele zu programmieren
 
 ### Generelle Ziele
 <!--
@@ -64,7 +58,7 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
+### Planung 27.11.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -75,8 +69,8 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] ...Charakter desines für das Gruppenprojek erstellen
+- [ ] ...Informatik ende modul 319 nacholen
 - [ ] ...Ihr Text...
 
 
